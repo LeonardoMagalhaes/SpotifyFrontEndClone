@@ -31,10 +31,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/LeonardoMagalhaes/TailwindSpotifyClone">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green-768x231.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Tailwind Spotify Clone</h3>
 
   <p align="center">
     This is a POC using Tailwind to reproduce briefly the Spotify interface.
@@ -64,7 +64,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Pre-requisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -78,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,26 +121,6 @@ Run the npm install:
 
 
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/LeonardoMagalhaes/TailwindSpotifyClone.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -182,8 +161,8 @@ Project Link: [https://github.com/LeonardoMagalhaes/TailwindSpotifyClone](https:
 [license-shield]: https://img.shields.io/github/license/LeonardoMagalhaes/TailwindSpotifyClone.svg?style=for-the-badge
 [license-url]: https://github.com/LeonardoMagalhaes/TailwindSpotifyClone/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: public/screenshot.png
+[linkedin-url]: https://linkedin.com/in/leonardo-magalhães-alves-b6511153
+[product-screenshot]: public/Screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
